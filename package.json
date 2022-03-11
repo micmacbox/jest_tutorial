@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "jamie",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "study jest",
+  "repository": "https://github.com/micmacbox/jest_tutorial.git",
+  "scripts": {
+    "test": "jest"
+  }
 }
